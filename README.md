@@ -8,7 +8,7 @@ string_data = “2022-7-8”<br>
 year, month, day = map(int, string_data.split('-')<br>
 result:year=2022、month=7、day=8<br>
 * **@classmethod装饰器的作用**<br>
-该类不需要实例化，即可调用该方法：A().b()的形式
+该类不需要实例化，即可调用该方法：ClassName.methodname()的形式
 
 ## Day 10-13
 * ** @property装饰器的作用**<br>
