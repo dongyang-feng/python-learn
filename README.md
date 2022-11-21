@@ -1,5 +1,7 @@
 # python-learn
-
+## Day 11-21
+* 在类中添加__call__方法的可以将类的实例化对象转变为一个可调用对象， 就是把一个类对象变成另一个函数对象<br>
+可以使用callable()方法可以判断某对象是否可以被调用
 ## Day 10-14
 * **dict.get(key, default=None)**<br>
 **key**：需要查找的键，**default**: 如果要查找的键不在的话，返回default的值，默认为None<br>
